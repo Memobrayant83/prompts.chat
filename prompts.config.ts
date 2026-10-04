@@ -6,7 +6,7 @@ const useCloneBranding = true;
 export default defineConfig({
   // Branding - customize for white-label
   branding: {
-    name: "Memo Ai Prompts",
+    name: "Memo AI Prompts",
     logo: "/logo.svg",
     logoDark: "/logo-dark.svg",
     favicon: "/logo.svg",
