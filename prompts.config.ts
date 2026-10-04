@@ -1,16 +1,16 @@
 import { defineConfig } from "@/lib/config";
 
 // Set to true to use clone branding (hide prompts.chat repo branding)
-const useCloneBranding = false;
+const useCloneBranding = true;
 
 export default defineConfig({
   // Branding - customize for white-label
   branding: {
-    name: "prompts.chat",
+    name: "Memo Ai Prompts",
     logo: "/logo.svg",
     logoDark: "/logo-dark.svg",
     favicon: "/logo.svg",
-    description: "Collect, organize, and share AI prompts",
+    description: "Discover, organize, and share useful AI prompts with Memo AI Prompts",
 
     // Delete this if useCloneBranding is true
     appStoreUrl: "https://apps.apple.com/tr/app/prompts-chat/id6756895736",
