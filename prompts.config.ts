@@ -7,9 +7,11 @@ export default defineConfig({
   // Branding - customize for white-label
   branding: {
     name: "Memo AI Prompts",
-    logo: "/logo.svg",
-    logoDark: "/logo-dark.svg",
-    favicon: "/logo.svg",
+    logo: "/file_000000002fb881f785e8e70dc92c3e63.png",
+logoDark: "/file_000000002fb881f785e8e70dc92c3e63.png",
+favicon: "/file_000000002fb881f785e8e70dc92c3e63.png",
+    
+    
     description: "Discover, organize, and share useful AI prompts with Memo AI Prompts",
 
     // Delete this if useCloneBranding is true
